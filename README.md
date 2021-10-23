@@ -17,4 +17,10 @@ Examen 2
 
 Nota: El archivo .ipynb si se abre directamente desde github o el exportado de HTML no está cargando las imágenes, pero anexo la evidencia de que si se cargan las imágenes desde Jupyter-lab.
 
+Parte inicial de la tabla:
+
 <img src="./Screenshots/Evidencia.png">
+
+Parte final de la tabla:
+
+<img src="./Screenshots/Evidencia2.png">
