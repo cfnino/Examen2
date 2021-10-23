@@ -11,3 +11,10 @@ Profesor: Fabian Peña.
  <br>
 Examen 2
 </p>
+
+
+:pushpin: El archivo de Jupyter-lab se encuentra en la carpeta: <a href="./Examen2/Examen2.ipynb">Examen2/Examen2.ipynb</a>
+
+Nota: El archivo .ipynb si se abre directamente desde github o el exportado de HTML no está cargando las imágenes, pero anexo la evidencia de que si se cargan las imágenes desde Jupyter-lab.
+
+<img src="./Screenshots/Evidencia.png">
